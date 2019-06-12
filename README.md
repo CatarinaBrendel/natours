@@ -1,6 +1,6 @@
 # Natours
 
-This is a small landing page with no functionality up to this point. The project was created as a studying enviroment from Udemy's course: Advanced CSS Course Master by Jonas Schmedtmann.
+This is a small landing page with no functionality up to this point. The project was created as a studying enviroment from Udemy's course: Advanced CSS Course Master by Jonas Schmedtmann. The main task was to implement this layout with Sass and without Flexbox or Grid concepts. Please note that this project includes media queries and is total responsive to the current main browser's size.
 
 ---
 
