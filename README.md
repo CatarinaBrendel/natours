@@ -1,4 +1,4 @@
-## Natours
+# Natours
 
 This is a small landing page with no functionality up to this point. The project was created as a studying enviroment from Udemy's course: Advanced CSS Course Master by Jonas Schmedtmann.
 
@@ -7,11 +7,7 @@ This is a small landing page with no functionality up to this point. The project
 ## Languages used
 
 It uses the currently version (June/2019) of:
-    1. HTML
-    2. CSS
-    3. Sass
-    4. Nodejs
-    5. npm
+    HTML, CSS, Sass, Nodejs, npm
 
 ## Requirements
 
@@ -22,11 +18,11 @@ It is required to have installed in one's machine the following:
 
 The web page requires to be inicialized with npm in order to dowload the packages and its necessarily dependencies:
 
-    ```npm install ```
+    npm install
 
 After the proper instalation, the page can be started with the following command in order to run o a localhost:
 
-    ``` npm run start ```
+    npm run start
 
 ---
 
